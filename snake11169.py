@@ -2,6 +2,7 @@ import pygame
 import sys
 import random
 import pygame_menu
+#Life is good 
 
 pygame.init()
 
